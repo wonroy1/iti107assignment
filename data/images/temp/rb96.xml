@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>rb96.jpg</filename>
+	<path>C:\NYP\IT107 Deep Learning Network\Assignment\data\images\temp\rb96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roller_blate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>292</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
