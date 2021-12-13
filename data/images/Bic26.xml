@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Assignment</folder>
+	<filename>Bic26.jpeg</filename>
+	<path>C:\Users\admin\Downloads\Assignment\Bic26.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>373</ymin>
+			<xmax>352</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
