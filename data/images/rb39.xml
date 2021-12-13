@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>rb21.jpg</filename>
-	<path>C:\NYP\IT107 Deep Learning Network\Assignment\data\images\rb21.jpg</path>
+	<filename>rb39.jpg</filename>
+	<path>C:\NYP\IT107 Deep Learning Network\Assignment\data\images\rb39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>434</width>
-		<height>280</height>
+		<width>294</width>
+		<height>171</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>179</ymin>
-			<xmax>157</xmax>
-			<ymax>236</ymax>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>284</xmax>
+			<ymax>161</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>105</xmin>
-			<ymin>107</ymin>
-			<xmax>983</xmax>
-			<ymax>747</ymax>
+			<xmin>92</xmin>
+			<ymin>408</ymin>
+			<xmax>847</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>roller_blade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>93</ymin>
+			<xmax>915</xmax>
+			<ymax>401</ymax>
 		</bndbox>
 	</object>
 </annotation>
