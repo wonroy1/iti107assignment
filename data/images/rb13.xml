@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rb13.jpg</filename>
+	<path>C:\NYP\IT107 Deep Learning Network\Assignment\data\images\rb13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3437</width>
+		<height>2578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roller_blade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1848</ymin>
+			<xmax>1007</xmax>
+			<ymax>2240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>roller_blade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1159</xmin>
+			<ymin>1972</ymin>
+			<xmax>1337</xmax>
+			<ymax>2304</ymax>
+		</bndbox>
+	</object>
+</annotation>

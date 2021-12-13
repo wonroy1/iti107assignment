@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rb40.gif</filename>
+	<path>C:\NYP\IT107 Deep Learning Network\Assignment\data\images\rb40.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>444</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roller_blade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>51</ymin>
+			<xmax>409</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
